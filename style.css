@@ -1,0 +1,24 @@
+#map { height: 400px; }
+
+.infoBlock {
+  background-color: #dc2796;
+  color: #fdfb76;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  min-height: 400px;
+}
+
+.infoBlock2 {
+    background-color: #df4ea7;
+    color: #fdfb76;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    min-height: 400px;
+  }
+
+.carousel-image{
+    width: auto;
+    height: 100%;
+}
